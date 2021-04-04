@@ -20,6 +20,11 @@ Javascript, Python
 
 [자료구조 개념 정리 모음](https://jun0127.tistory.com/category/IT/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
 
+## 진행경과
+
+1. [디스크 컨트롤러 (힙)](https://github.com/jowoojun/algorithm-playground/blob/master/src/main/java/Solutions/IncompletePlayer.java)  - [문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42627)
+  * [풀이](https://jun0127.tistory.com/12?category=888739)
+
 ### 성과 - 알고리즘 사이트 점수
 
 [백준 사이트 점수](https://solved.ac/profile/jowoojun)
