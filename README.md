@@ -4,16 +4,15 @@
 
 ## 사용 언어
 
-Javascript, Python
+Javascript, Python3
 
 ## 목차
 
 ### 문제풀이 코드 ([답안](https://github.com/jowoojun/algorithm/tree/main/src))
 
-1. [디스크 컨트롤러 / javascript (힙)](https://github.com/jowoojun/algorithm/blob/main/src/DiskController.js)  - [문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42627)
-    * [풀이](https://jun0127.tistory.com/12?category=888739)
-2. [이중우선순위큐 / javascript (힙)](https://github.com/jowoojun/algorithm/blob/main/src/DoublePriorityQueue.js)  - [문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42628)
-    * [풀이](https://jun0127.tistory.com/13?category=888739)
+1. [디스크 컨트롤러 / javascript (힙)](https://github.com/jowoojun/algorithm/blob/main/src/DiskController.js)  - [문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42627) [풀이](https://jun0127.tistory.com/12?category=888739)
+2. [이중우선순위큐 / javascript (힙)](https://github.com/jowoojun/algorithm/blob/main/src/DoublePriorityQueue.js)  - [문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42628) [풀이](https://jun0127.tistory.com/13?category=888739)
+3. [더 맵게 / python3 (힙)](https://github.com/jowoojun/algorithm/blob/main/src/MoreSpice.py)  - [문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42626) [풀이](https://jun0127.tistory.com/14?category=888739)
 
 ### 문제풀이 과정
 
