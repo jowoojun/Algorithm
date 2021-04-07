@@ -14,9 +14,10 @@ Javascript, Python3
 2. [이중우선순위큐 / javascript (힙)](https://github.com/jowoojun/algorithm/blob/main/src/DoublePriorityQueue.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42628)[ [풀이]](https://jun0127.tistory.com/13?category=888739)
 3. [더 맵게 / python3 (힙)](https://github.com/jowoojun/algorithm/blob/main/src/MoreSpice.py)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42626) [[풀이]](https://jun0127.tistory.com/14?category=888739)
 4. [다리를 지나는 트럭 / javascript (큐)](https://github.com/jowoojun/algorithm/blob/main/src/TrucksPassingTheBridge.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42583) [[풀이]](https://jun0127.tistory.com/15?category=888739)
-5. [주식가격 / python3 (스텍)](https://github.com/jowoojun/algorithm/blob/main/src/StockPrice.py)  - [[문제 링크]](programmers.co.kr/learn/courses/30/lessons/42584) [[풀이]](https://jun0127.tistory.com/16?category=888739)
+5. [주식가격 / python3 (스텍)](https://github.com/jowoojun/algorithm/blob/main/src/StockPrice.py)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42584) [[풀이]](https://jun0127.tistory.com/16?category=888739)
 6. [기능개발 / javascript (스텍, 큐)](https://github.com/jowoojun/algorithm/blob/main/src/DevelopFunction.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42586) [[풀이]](https://jun0127.tistory.com/17?category=888739)
 7. [프린터 / Javascript (큐)](https://github.com/jowoojun/algorithm/blob/main/src/Printer.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42587) [[풀이]](https://jun0127.tistory.com/18?category=888739)
+8. [K번째수 / Javascript (정렬)](https://github.com/jowoojun/algorithm/blob/main/src/KthNumber.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42748) [[풀이]](https://jun0127.tistory.com/19?category=888739)
 
 ### 문제풀이 과정
 
