@@ -1,4 +1,4 @@
-# algorithm
+# Algorithm
 
 알고리즘 공부를 기록하기 위한 장소.
 
@@ -18,6 +18,7 @@ Javascript, Python3
 6. [기능개발 / javascript (스텍, 큐)](https://github.com/jowoojun/algorithm/blob/main/src/DevelopFunction.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42586) [[풀이]](https://jun0127.tistory.com/17?category=888739)
 7. [프린터 / Javascript (큐)](https://github.com/jowoojun/algorithm/blob/main/src/Printer.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42587) [[풀이]](https://jun0127.tistory.com/18?category=888739)
 8. [K번째수 / Javascript (정렬)](https://github.com/jowoojun/algorithm/blob/main/src/KthNumber.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42748) [[풀이]](https://jun0127.tistory.com/19?category=888739)
+9. [가장 큰 수 / Javascript (정렬)](https://github.com/jowoojun/algorithm/blob/main/src/MostBigNumber.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42746) [[풀이]](https://jun0127.tistory.com/20?category=888739)
 
 ### 문제풀이 과정
 
