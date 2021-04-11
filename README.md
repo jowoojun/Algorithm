@@ -22,6 +22,7 @@ Javascript, Python3
 10. [H-Index / Javascript (정렬)](https://github.com/jowoojun/algorithm/blob/main/src/H-Index.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42747) [[풀이]](https://jun0127.tistory.com/21?category=888739)
 11. [완주하지 못한 선수 / Javascript (해시)](https://github.com/jowoojun/algorithm/blob/main/src/AthleteWhoNotFinish.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42576) [[풀이]](https://jun0127.tistory.com/22?category=888739)
 12. [전화번호 목록 / Python3 (해시)](https://github.com/jowoojun/algorithm/blob/main/src/PhoneBook.py)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42577) [[풀이]](https://jun0127.tistory.com/23?category=888739)
+13. [위장 / Javascript (해시)](https://github.com/jowoojun/algorithm/blob/main/src/Camouflage.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42578) [[풀이]](https://jun0127.tistory.com/24?category=888739)
 
 ### 문제풀이 과정
 
