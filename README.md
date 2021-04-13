@@ -25,6 +25,7 @@ Javascript, Python3
 13. [위장 / Javascript (해시)](https://github.com/jowoojun/algorithm/blob/main/src/Camouflage.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42578) [[풀이]](https://jun0127.tistory.com/24?category=888739)
 14. [베스트앨범 / Javascript (해시)](https://github.com/jowoojun/algorithm/blob/main/src/BestAlbum.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42579) [[풀이]](https://jun0127.tistory.com/25?category=888739)
 15. [모의고사 / Javascript (완전탐색)](https://github.com/jowoojun/algorithm/blob/main/src/Practice.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42840) [[풀이]](https://jun0127.tistory.com/26?category=888739)
+16. [소수 찾기 / Javascript (완전탐색)](https://github.com/jowoojun/algorithm/blob/main/src/FinePrime.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42839) [[풀이]](https://jun0127.tistory.com/27?category=888739)
 
 ### 문제풀이 과정
 
