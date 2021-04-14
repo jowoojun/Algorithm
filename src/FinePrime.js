@@ -31,3 +31,6 @@ function solution(numbers) {
     .filter(e => e != undefined)
     .length;
 }
+
+console.log(solution("17"))
+console.log(solution("011"))
