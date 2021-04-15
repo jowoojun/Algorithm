@@ -27,6 +27,7 @@ Javascript, Python3
 15. [모의고사 / Javascript (완전탐색)](https://github.com/jowoojun/algorithm/blob/main/src/Practice.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42840) [[풀이]](https://jun0127.tistory.com/26?category=888739)
 16. [소수 찾기 / Javascript (완전탐색)](https://github.com/jowoojun/algorithm/blob/main/src/FinePrime.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42839) [[풀이]](https://jun0127.tistory.com/27?category=888739)
 17. [카펫 / Javascript (완전탐색)](https://github.com/jowoojun/algorithm/blob/main/src/Carpet.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/42842) [[풀이]](https://jun0127.tistory.com/28?category=888739)
+18. [타겟 넘버 / Javascript (깊이우선탐색)](https://github.com/jowoojun/algorithm/blob/main/src/TargetNumber.js)  - [[문제 링크]](https://programmers.co.kr/learn/courses/30/lessons/43165) [[풀이]](https://jun0127.tistory.com/29?category=888739)
 
 ### 문제풀이 과정
 
